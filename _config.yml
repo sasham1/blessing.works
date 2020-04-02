@@ -1,23 +1,29 @@
-# Site settings
+---
 title: Your Title Here
-description: > # this means to ignore newlines until "baseurl:"
-baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+description: ''
+baseurl: "/"
+url: ''
 author: Copyright &copy; 2019 - Start Bootstrap
 lang: en_US
-
-# Build settings
-safe: true # always trues on github-pages, disables _plugins/
+safe: true
 markdown: kramdown
 sass:
   indentWidth: 4
   style: compact
   precision: 10
 plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-seo-tag
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - build-in-docker.sh
-  - README.md
+- Gemfile
+- Gemfile.lock
+- build-in-docker.sh
+- README.md
