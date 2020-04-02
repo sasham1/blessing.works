@@ -1,5 +1,5 @@
 ---
-layout: home
+title: Blessing - Ride Your Unicorn
 header:
   title: Blessing
   text: 'Ride your unicorn
@@ -12,10 +12,9 @@ sections:
 - type: call-to-action.html
   section_id: about
   background_style: bg-primary
-  title: We've got what you need!
-  text: Start Bootstrap has everything you need to get your new website up and running
-    in no time! All of the templates and themes on Start Bootstrap are open source,
-    free to download, and easy to use. No strings attached!
+  title: Join the new economy
+  text: Blessing allows you to join the new economy. Be a part of the rapidly growing
+    on-demand work pool. This is just temporary text, it will be updated.
   actions:
   - title: Get Started!
     url: "#"
@@ -132,5 +131,6 @@ sections:
   - title: E-Mail
     icon: fa-envelope
     url: mailto:contact@blessing.works
+layout: home
 ---
 
