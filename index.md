@@ -13,8 +13,8 @@ sections:
   section_id: about
   background_style: bg-primary
   title: Join the new economy
-  text: Blessing allows you to join the new economy. Be a part of the rapidly growing
-    on-demand work pool. This is just temporary text, it will be updated.
+  text: Blessing allows you to join the new economy. Be a supplier of the rapidly
+    growing on-demand work pool.
   actions:
   - title: Get Started!
     url: "#"
