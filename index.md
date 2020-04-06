@@ -2,7 +2,7 @@
 title: Blessing - Ride Your Unicorn
 header:
   title: Blessing
-  text: 'Ride your unicorn
+  text: 'Coming soon...
 
 '
   action:
