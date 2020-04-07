@@ -2,9 +2,7 @@
 title: Blessing - Ride Your Unicorn
 header:
   title: Blessing
-  text: 'Ride your unicorn
-
-'
+  text: Grow Where Work is Growing
   action:
     label: Find Out More
     url: "#about"
