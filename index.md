@@ -10,11 +10,11 @@ sections:
 - type: call-to-action.html
   section_id: about
   background_style: bg-primary
-  title: Join the new economy
-  text: Blessing allows you to join the new economy. Be a supplier of the rapidly
-    growing on-demand work pool.
+  title: Abra Kadabra
+  text: New text! Blessing allows you to join the new economy. Be a supplier of the
+    rapidly growing on-demand work pool.
   actions:
-  - title: Get Started!
+  - title: Don't Get Started!
     url: "#"
     class: btn-light
 - type: services.html
