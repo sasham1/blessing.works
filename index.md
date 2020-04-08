@@ -1,5 +1,5 @@
 ---
-title: Blessing - Ride Your Unicorn
+title: Blessing - Grow Where Work is Growing
 header:
   title: Blessing
   text: Grow Where Work is Growing
