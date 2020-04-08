@@ -21,10 +21,11 @@ sections:
     Gig economy companies enjoy the benefits of a flexible workforce, that scales up and down as needed according to their up-to-the-moment needs.
 - type: services.html
   section_id: services
-  title: At Your Service
+  title: Benefits of Working with Blessing
   services:
-  - title: Sturdy Templates
-    text: Our templates are updated regularly so they don't break.
+  - title: Staffing Agencies
+    text: Staffing agencies can use their expertise in sourcing and managing talent
+      to become a major participant in the new economy.
     icon: fa-gem text-info
     url: https://startbootstrap.com/
   - title: Ready to Ship
