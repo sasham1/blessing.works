@@ -1,5 +1,5 @@
 ---
-title: Blessing - Ride Your Unicorn
+title: Blessing - Grow Where Work is Growing
 header:
   title: Blessing
   text: Grow Where Work is Growing
@@ -13,14 +13,19 @@ sections:
   title: What is Blessing
   text: |-
     Blessing is a new paradigm for gig economy employment, that works for everybody.
+
+
     Workers enjoy a stable workplace and predictable income, with social benefits, growth opportunities and respect.
-    Companies enjoy the benefits of a flexible workforce, that scales up and down as needed according to their up-to-the-moment needs.
+
+
+    Gig economy companies enjoy the benefits of a flexible workforce, that scales up and down as needed according to their up-to-the-moment needs.
 - type: services.html
   section_id: services
-  title: At Your Service
+  title: Benefits of Working with Blessing
   services:
-  - title: Sturdy Templates
-    text: Our templates are updated regularly so they don't break.
+  - title: Staffing Agencies
+    text: Staffing agencies can use their expertise in sourcing and managing talent
+      to become a major participant in the new economy.
     icon: fa-gem text-info
     url: https://startbootstrap.com/
   - title: Ready to Ship
