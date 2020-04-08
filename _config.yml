@@ -11,7 +11,7 @@ collections:
 description: ''
 baseurl: "/"
 url: ''
-author: Copyright &copy; 2019 - Start Bootstrap
+author: Copyright &copy; 2020 - Blessing
 lang: en_US
 safe: true
 markdown: kramdown
