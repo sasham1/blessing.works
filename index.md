@@ -13,7 +13,7 @@ sections:
   title: What is Blessing
   text: |-
     Blessing is a new paradigm for gig economy employment, that works for everybody.
-    Workers enjoy a stable workplace and predictable income, with social benefits, growth opportui
+    Workers enjoy a stable workplace and predictable income, with social benefits, growth opportunities and respect.
     Companies enjoy the benefits of a flexible workforce, that scales up and down as needed according to current services demand.
 - type: services.html
   section_id: services
