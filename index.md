@@ -13,12 +13,8 @@ sections:
   title: What is Blessing
   text: |-
     Blessing is a new paradigm for gig economy employment, that works for everybody.
-    Workers enjoy a stable workplace and predictable income, with social benefits, growth opportunities and respect.
+    Workers enjoy a stable workplace and predictable income, with social benefits, growth opportui
     Companies enjoy the benefits of a flexible workforce, that scales up and down as needed according to current services demand.
-  actions:
-  - title: Don't Get Started!
-    url: "#"
-    class: btn-light
 - type: services.html
   section_id: services
   title: At Your Service
@@ -42,32 +38,6 @@ sections:
   - title: Other 2
     text: Some not-so long text here.
     icon: fa-heart
-- type: portfolio.html
-  projects:
-  - title: Project 1
-    text: This is a very short project description.
-    icon: 1.jpg
-    url: "#"
-  - title: Project 2
-    text: This is a very short project description.
-    icon: 2.jpg
-    url: "#"
-  - title: Project 3
-    text: This is a very short project description.
-    icon: 3.jpg
-    url: "#"
-  - title: Project 4
-    text: This is a very short project description.
-    icon: 4.jpg
-    url: "#"
-  - title: Project 5
-    text: This is a very short project description.
-    icon: 5.jpg
-    url: "#"
-  - title: Project 6
-    text: This is a very short project description.
-    icon: 6.jpg
-    url: "#"
 - type: aside.html
   section_id: aside
   title: Free Download at Start Bootstrap!
