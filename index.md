@@ -10,9 +10,11 @@ sections:
 - type: call-to-action.html
   section_id: about
   background_style: bg-primary
-  title: Abra Kadabra
-  text: New text! Blessing allows you to join the new economy. Be a supplier of the
-    rapidly growing on-demand work pool.
+  title: What is Blessing
+  text: |-
+    Blessing is a new paradigm for gig economy employment, that works for everybody.
+    Workers enjoy a stable workplace and predictable income, with social benefits, growth opportunities and respect.
+    Companies enjoy the benefits of a flexible workforce, that scales up and down as needed according to current services demand.
   actions:
   - title: Don't Get Started!
     url: "#"
