@@ -63,7 +63,7 @@ sections:
   title: Let's Get In Touch!
   text: Ready to start working with us? Send us an email and we will get back to you
     as soon as possible!
-  background_style: bg-primary
+  background_style: bg-dark text-primary
   actions:
   - title: E-Mail
     icon: fa-envelope
