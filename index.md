@@ -24,7 +24,7 @@ sections:
     text: Staffing agencies can use their expertise in sourcing and managing talent
       to become a major participant in the new economy.
     icon: fa-address-book text-info
-    url: https://startbootstrap.com/
+#    url: https://startbootstrap.com/
   - title: Employees
     text: Employees enjoy a stable workplace and predictable income, with social benefits, growth opportunities and respect.
     icon: fa-people-carry text-info
