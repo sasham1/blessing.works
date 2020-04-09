@@ -26,38 +26,13 @@ sections:
     icon: fa-address-book text-info
     url: https://startbootstrap.com/
   - title: Employees
-    text: Employees enjoy a stable workplace and predictable income, with social benefits, growth opportunities and respect.
+    text: Employees enjoy a stable workplace and predictable income, with social benefits,
+      growth opportunities and respect.
     icon: fa-people-carry text-info
   - title: Businesses
-    text: Businesses enjoy the benefits of a flexible workforce, that scales up and down as needed according to their up-to-the-moment needs.
+    text: Businesses enjoy the benefits of a flexible workforce, that scales up and
+      down as needed according to their up-to-the-moment needs.
     icon: fa-hotel text-info
-# - type: members.html
-#  section_id: members
-#  title: Our Crew!
-#  background_style: bg-info text-white
-#  members:
-#  - title: Christina M. Aponte
-#    text: Singer and Songwriter
-#    image: assets/img/members/person1.jpg
-#    url: "#"
-#- type: timeline.html
-#  section_id: timeline
-#  title: Major Achievements!
-#  background_style: bg-dark text-primary
-#  last_image: assets/img/timeline-end.png
-#  actions:
-#  - image: assets/img/portfolio/thumbnails/1.jpg
-#    title: '2017-2018 **Humble Beginnings**
-
-#'
-#    text: We begun with small group of people willing to work hard and make our teaching
-#      skills worth , in front of all others!
-#  - image: assets/img/portfolio/thumbnails/2.jpg
-#    title: 'November 2019 An Coaching started
-
-#'
-#    text: We started to gather like minded people and started our stategies and future
-#      plans to them. As a result , interested people joined us!
 - type: contact.html
   section_id: contacts
   title: Let's Get In Touch!
@@ -68,7 +43,6 @@ sections:
   - title: E-Mail
     icon: fa-envelope
     url: mailto:o@blessing.works
-
 layout: home
 ---
 
