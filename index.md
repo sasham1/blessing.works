@@ -13,12 +13,9 @@ sections:
   title: What is Blessing
   text: |-
     Blessing is a new paradigm for gig economy employment, that works for everybody.
+    --------------------------------------------------------------------------------
 
-
-    Workers enjoy a stable workplace and predictable income, with social benefits, growth opportunities and respect.
-
-
-    Gig economy companies enjoy the benefits of a flexible workforce, that scales up and down as needed according to their up-to-the-moment needs.
+    By creating a smart network of gig economy companies and workforce providers, Blessing allows more efficient utilization of employees' time, creating better opportunities for everyone.
 - type: services.html
   section_id: services
   title: Benefits of Working with Blessing
@@ -26,86 +23,52 @@ sections:
   - title: Staffing Agencies
     text: Staffing agencies can use their expertise in sourcing and managing talent
       to become a major participant in the new economy.
-    icon: fa-gem text-info
+    icon: fa-address-book text-info
     url: https://startbootstrap.com/
-  - title: Ready to Ship
-    text: You can use this theme as is, or you can make changes!
-    icon: fa-paper-plane
-  - title: Up to Date
-    text: We update dependencies to keep things fresh.
-    icon: fa-laptop-code
-  - title: Made with Love
-    text: You have to make your websites with love these days!
-    icon: fa-heart
-  - title: Other 1
-    text: Some not-so long text here.
-    icon: fa-heart
-  - title: Other 2
-    text: Some not-so long text here.
-    icon: fa-heart
-- type: aside.html
-  section_id: aside
-  title: Free Download at Start Bootstrap!
-  actions:
-  - title: Download Now!
-    url: https://startbootstrap.com/themes/creative/
-    class: btn-light
-- type: members.html
-  section_id: members
-  title: Our Crew!
-  background_style: bg-info text-white
-  members:
-  - title: Christina M. Aponte
-    text: Singer and Songwriter
-    image: assets/img/members/person1.jpg
-    url: "#"
-  - title: Gary D. Stevens
-    text: Bass guitar.
-    image: assets/img/members/person2.jpg
-    url: "#"
-  - title: Devon J. Fletcher
-    text: Lead guitar.
-    image: assets/img/members/person3.jpg
-    url: "#"
-  - title: Todd E. Anderson
-    text: Drums, percussion.
-    image: assets/img/members/person5.jpg
-    url: "#"
-  - title: Daniel T. Riley
-    text: Musician, songwriter, producer.
-    image: assets/img/members/person6.jpg
-    url: "#"
-  - title: Ella P. Walter
-    text: PR.
-    image: assets/img/members/person7.jpg
-    url: "#"
-- type: timeline.html
-  section_id: timeline
-  title: Major Achievements!
-  background_style: bg-dark text-primary
-  last_image: assets/img/timeline-end.png
-  actions:
-  - image: assets/img/portfolio/thumbnails/1.jpg
-    title: '2017-2018 **Humble Beginnings**
+  - title: Employees
+    text: Employees enjoy a stable workplace and predictable income, with social benefits, growth opportunities and respect.
+    icon: fa-people-carry text-info
+  - title: Businesses
+    text: Businesses enjoy the benefits of a flexible workforce, that scales up and down as needed according to their up-to-the-moment needs.
+    icon: fa-hotel text-info
+# - type: members.html
+#  section_id: members
+#  title: Our Crew!
+#  background_style: bg-info text-white
+#  members:
+#  - title: Christina M. Aponte
+#    text: Singer and Songwriter
+#    image: assets/img/members/person1.jpg
+#    url: "#"
+#- type: timeline.html
+#  section_id: timeline
+#  title: Major Achievements!
+#  background_style: bg-dark text-primary
+#  last_image: assets/img/timeline-end.png
+#  actions:
+#  - image: assets/img/portfolio/thumbnails/1.jpg
+#    title: '2017-2018 **Humble Beginnings**
 
-'
-    text: We begun with small group of people willing to work hard and make our teaching
-      skills worth , in front of all others!
-  - image: assets/img/portfolio/thumbnails/2.jpg
-    title: 'November 2019 An Coaching started
+#'
+#    text: We begun with small group of people willing to work hard and make our teaching
+#      skills worth , in front of all others!
+#  - image: assets/img/portfolio/thumbnails/2.jpg
+#    title: 'November 2019 An Coaching started
 
-'
-    text: We started to gather like minded people and started our stategies and future
-      plans to them. As a result , interested people joined us!
+#'
+#    text: We started to gather like minded people and started our stategies and future
+#      plans to them. As a result , interested people joined us!
 - type: contact.html
   section_id: contacts
   title: Let's Get In Touch!
   text: Ready to start working with us? Send us an email and we will get back to you
     as soon as possible!
+  background_style: bg-primary
   actions:
   - title: E-Mail
     icon: fa-envelope
-    url: mailto:contact@blessing.works
+    url: mailto:o@blessing.works
+
 layout: home
 ---
 
