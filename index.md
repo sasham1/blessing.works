@@ -12,7 +12,7 @@ sections:
   background_style: bg-primary
   title: What is Blessing
   text: |-
-    Blessing is a new paradigm for gig economy employment, that works for everybody.
+    Blessing is bridging between the gig economy and workforce providers
     --------------------------------------------------------------------------------
 
     By creating a smart network of gig economy companies and workforce providers, Blessing allows more efficient utilization of employees' time, creating better opportunities for everyone.
@@ -28,20 +28,19 @@ sections:
     text: Employees enjoy a stable workplace and predictable income, with social benefits,
       growth opportunities and respect.
     icon: fa-people-carry text-info
-  - title: Businesses
+  - title: On-Demand Companies
     text: Businesses enjoy the benefits of a flexible workforce, that scales up and
       down as needed according to their up-to-the-moment needs.
-    icon: fa-hotel text-info
+    icon: fa-car-side text-info
 - type: contact.html
   section_id: contacts
   title: Let's Get In Touch!
-  text: Ready to start working with us? Send us an email and we will get back to you
-    as soon as possible!
+  text: We want to hear from you.
   background_style: bg-dark text-primary
   actions:
   - title: E-Mail
     icon: fa-envelope
-    url: mailto:o@blessing.works
+    url: mailto:info@blessing.works
 layout: home
 ---
 
